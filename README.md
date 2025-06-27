@@ -1,4 +1,4 @@
-Clap Switch
+Clap Switch<br>
 A simple sound-activated switch that turns a device on or off when you clap. It uses a microphone to detect sound and a basic transistor-based circuit to toggle the output.<br>
 <br>
 Files Included<br>
